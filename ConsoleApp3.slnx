@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../WinFormsApp1/WinFormsApp1.csproj" />
+  <Project Path="../WinFormsApp2/WinFormsApp2.csproj" Id="09f38eaf-bbf1-41dd-8de8-8980a86dbad6" />
   <Project Path="ConsoleApp3.csproj" />
 </Solution>
